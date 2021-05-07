@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CatApi</string>
+    <string name="agent_breed">Agent breed:</string>
+</resources>
